@@ -99,7 +99,7 @@ Here is a view of the error and the resolution in the terminal:
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/195136390-85b549a6-569d-409d-b9b6-46466608f1fe.png">
 </p>
 
-7. Now that the setup is complete, there are several functions that Openshift can perform. The documenation can be found [here](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.5/html/getting_started_guide/using_gsg). Additional walkthroughs will be provided in subsequent folders in the root directory. 
+7. Now that the setup is complete, there are several functions that Openshift can perform. The documenation can be found [here](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.5/html/getting_started_guide/using_gsg) & [here](https://crc.dev/crc/). Additional walkthroughs will be provided in subsequent folders in the root directory. 
 
 <sub><sub>[Back to the Top](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#deployment-options)</sub></sub>
 
