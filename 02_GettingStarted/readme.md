@@ -18,8 +18,8 @@
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/194984585-e6d33dac-58f4-4918-8c9b-e79175e85146.png">
 </p>
 
-- [ ] [`CodeReady Containers`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-codeready-containers)
-- [ ] [`Minishift`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-minishift) coupled with a Hypervisor
+- 1. [`CodeReady Containers (CRC)`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-codeready-containers)
+- 2. [`Minishift`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-minishift) coupled with a Hypervisor
 
 -------
 
