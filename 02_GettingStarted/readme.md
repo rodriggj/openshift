@@ -91,6 +91,14 @@ crc start
 
 > NOTE: If there is an error, resolve the error and repeat the `crc setup` and then `crc start` process. 
 
+> Troubleshooting: There was only one instance of troubleshooting required which was a blocking port. The process to rectify this _"...port in use..."_ error was to kill the blocking process. A helpful article to debug this was found [here](https://stackoverflow.com/questions/11583562/how-to-kill-a-process-running-on-particular-port-in-linux). 
+
+Here is a view of the error and the resolution in the terminal: 
+
+<p align="center">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/195136390-85b549a6-569d-409d-b9b6-46466608f1fe.png">
+</p>
+
 ------
 
 ## Demo Environment with `Minishift`
