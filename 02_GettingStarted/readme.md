@@ -18,8 +18,8 @@
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/194984585-e6d33dac-58f4-4918-8c9b-e79175e85146.png">
 </p>
 
-- [ ] `CodeReady Containers`
-- [ ] `Minishift` coupled with a Hypervisor
+- [ ] [`CodeReady Containers`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-codeready-containers)
+- [ ] [`Minishift`](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#demo-environment-with-minishift) coupled with a Hypervisor
 
 -------
 
@@ -98,6 +98,8 @@ Here is a view of the error and the resolution in the terminal:
 <p align="center">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/195136390-85b549a6-569d-409d-b9b6-46466608f1fe.png">
 </p>
+
+<sub><sub>[Back to the Top](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#deployment-options)</sub></sub>
 
 ------
 
@@ -233,6 +235,10 @@ Results in
 <p align="center">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/194992846-b62a5e64-48d6-4e03-81da-4a0652865005.png">
 </p>
+
+Stopped ... there were several errors with the versioning of the Minishift image, the `hyperkit` installation, & the credential availablity of the minishift image once running in Virtualbox. I ultimately deleted the box and simply used `CRC` process. 
+
+<sub><sub>[Back to the Top](https://github.com/rodriggj/openshift/tree/master/02_GettingStarted#deployment-options)</sub></sub>
 
 -------
 
